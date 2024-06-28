@@ -1,0 +1,6 @@
+git init [for initializing init in present working directory]
+
+git add -A [for adding all untracked files to staging area]
+
+git commit -m "commit messsage" [adding staged files to local repositories]
+
